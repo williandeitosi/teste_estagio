@@ -1,0 +1,33 @@
+a - Adição de 2:
+
+Cada número é obtido adicionando 2 ao número anterior.
+Próximo número: 7 + 2 = 9.
+
+
+b - Multiplicação por 2:
+
+Cada número é obtido multiplicando o número anterior por 2.
+Próximo número: 64 * 2 = 128.
+
+
+c - raiz quadrada exata:
+
+esta calculando sempre o proximo numero com raiz quadrada exata.
+Próximo número: 7² = 49.
+
+
+d - Quadrados dos Números Pares:
+
+Cada número é o quadrado de um número par.
+Próximo número: 10² = 100.
+
+
+e - Sequência de Fibonacci:
+
+Cada número é a soma dos dois anteriores.
+Próximo número: 8 + 5 = 13.
+
+
+f - todos numeros começa com a letra D:
+
+proximo numero é: 200
