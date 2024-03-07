@@ -1,0 +1,13 @@
+Passo 1:
+
+- Ligue o primeiro interruptor e deixe ligado por alguns minutos.
+- Depois, desligue o primeiro interruptor e ligue o segundo.
+
+
+Passo 2:
+
+Agora, vá até a sala com as lâmpadas:
+
+-Se uma lâmpada está acesa, isso significa que o segundo interruptor controla essa lâmpada.
+-Se uma lâmpada está desligada, mas ainda está quente, isso significa que o primeiro interruptor controla essa lâmpada.
+-Se uma lâmpada está desligada e fria, isso significa que o terceiro interruptor controla essa lâmpada.
